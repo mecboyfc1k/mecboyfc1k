@@ -1,6 +1,6 @@
 ## 👋 Sobre mim
 
-🎓 Atualmente sou estudante de **Ciência da Computação** e acredito profundamente que o conhecimento pode e deve ser usado para o bem comum — especialmente para beneficiar os mais desamparados, hoje e no futuro.
+🎓 Atualmente sou estudante de **Ciência da Computação** e acredito profundamente que o conhecimento pode e deve ser usado para o bem comum — especialmente para beneficiar os mais desamparados, pensando no hoje, mas também nos que virão depois.
 
 💡 Meu desejo é construir uma carreira científica com foco em **Inteligência Artificial (IA)**, **Realidade Aumentada (RA)** e **Realidade Virtual (RV)**. Tenho como inspiração aqueles que se dedicaram a compreender fenômenos antes obscuros à humanidade — e espero contribuir com esse legado.
 
